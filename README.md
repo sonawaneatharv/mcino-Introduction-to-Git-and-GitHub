@@ -1,6 +1,6 @@
-# Simple Interest Calculator
+# Simple Interest Calculator - Fixed Typo
 
-## Project Name: Simple Interest Calculator
+## Project Name: Simple Interest Calculator - Fixed Typo
 
 This project provides a simple Bash-based calculator to compute **Simple Interest** based on user-provided inputs.
 
